@@ -1,3 +1,3 @@
 # Project_demo
 This is my first repository.
-Author- Tanvi Sharma
+Author- Tanvi Sharma-apna college
